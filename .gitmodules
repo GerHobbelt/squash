@@ -60,7 +60,7 @@
 	url = https://github.com/GerHobbelt/snappy.git
 [submodule "plugins/zlib/zlib"]
 	path = plugins/zlib/zlib
-	url = https://github.com/madler/zlib.git
+	url = https://github.com/GerHobbelt/zlib.git
 [submodule "plugins/lzma/xz"]
 	path = plugins/lzma/xz
 	url = http://git.tukaani.org/xz.git
@@ -75,7 +75,7 @@
 	url = https://github.com/mbitsnbites/liblzg.git
 [submodule "plugins/zlib-ng/zlib-ng"]
 	path = plugins/zlib-ng/zlib-ng
-	url = https://github.com/Dead2/zlib-ng.git
+	url = https://github.com/GerHobbelt/zlib-ng.git
 	branch = develop
 [submodule "plugins/brieflz/brieflz"]
 	path = plugins/brieflz/brieflz
