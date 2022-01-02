@@ -24,7 +24,7 @@
 	url = https://github.com/richgel999/lzham_codec_devel.git
 [submodule "plugins/brotli/brotli"]
 	path = plugins/brotli/brotli
-	url = https://github.com/GerHobbelt/brotli.git
+	url = git@github.com:GerHobbelt/brotli.git
 [submodule "plugins/zpaq/zpaq"]
 	path = plugins/zpaq/zpaq
 	url = https://github.com/zpaq/zpaq.git
@@ -33,7 +33,7 @@
 	url = https://github.com/richox/libzling.git
 [submodule "plugins/zstd/zstd"]
 	path = plugins/zstd/zstd
-	url = https://github.com/GerHobbelt/zstd.git
+	url = git@github.com:GerHobbelt/zstd.git
 [submodule "plugins/ms-compress/ms-compress"]
 	path = plugins/ms-compress/ms-compress
 	url = https://github.com/coderforlife/ms-compress.git
@@ -57,16 +57,16 @@
 	url = https://github.com/nemequ/lzo.git
 [submodule "plugins/snappy/snappy"]
 	path = plugins/snappy/snappy
-	url = https://github.com/GerHobbelt/snappy.git
+	url = git@github.com:GerHobbelt/snappy.git
 [submodule "plugins/zlib/zlib"]
 	path = plugins/zlib/zlib
-	url = https://github.com/GerHobbelt/zlib.git
+	url = git@github.com:GerHobbelt/zlib.git
 [submodule "plugins/lzma/xz"]
 	path = plugins/lzma/xz
 	url = http://git.tukaani.org/xz.git
 [submodule "plugins/lz4/lz4"]
 	path = plugins/lz4/lz4
-	url = https://github.com/GerHobbelt/lz4.git
+	url = git@github.com:GerHobbelt/lz4.git
 [submodule "plugins/wflz/wflz"]
 	path = plugins/wflz/wflz
 	url = https://github.com/ShaneWF/wflz.git
@@ -75,7 +75,7 @@
 	url = https://github.com/mbitsnbites/liblzg.git
 [submodule "plugins/zlib-ng/zlib-ng"]
 	path = plugins/zlib-ng/zlib-ng
-	url = https://github.com/GerHobbelt/zlib-ng.git
+	url = git@github.com:GerHobbelt/zlib-ng.git
 	branch = develop
 [submodule "plugins/brieflz/brieflz"]
 	path = plugins/brieflz/brieflz
